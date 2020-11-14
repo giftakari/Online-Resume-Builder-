@@ -24,6 +24,7 @@
     "@clr/icons": "^4.0.6",
     "@clr/ui": "^4.0.6",
     "@webcomponents/webcomponentsjs": "^2.5.0",
+    "bootstrap": "^5.0.0-alpha3",
     "pdfmake": "^0.1.68",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
